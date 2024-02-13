@@ -24,7 +24,7 @@
         .cat-poster img {
             max-width: 100%;
             height: auto;
-            width: 200px; /* Tamaño fijo deseado */
+            width: 200px; 
         }
     </style>
 </head>
